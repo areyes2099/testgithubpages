@@ -5,7 +5,6 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
 	<RunAOTCompilation>true</RunAOTCompilation>
-	<GHPagesBase>https://areyes2099.github.io/testgithubpages/</GHPagesBase>
   </PropertyGroup>
 
   <ItemGroup>
